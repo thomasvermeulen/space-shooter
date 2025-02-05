@@ -30,10 +30,10 @@ Een klassieke **Space Invaders**-achtige game gebouwd met **Pygame**. Vecht tege
 
 ## 🖼️ Screenshots
 ### Level 1:
-![Gameplay Level 1](https://github.com/thomasvermeulen/space-shooter/assets/example1.png)
+![Gameplay Level 1](https://github.com/thomasvermeulen/space-shooter/blob/main/assets/example1.png?raw=true)
 
 ### Level 2:
-![Gameplay Level 2](https://github.com/thomasvermeulen/space-shooter/assets/example2.png)
+![Gameplay Level 2](https://github.com/thomasvermeulen/space-shooter/blob/main/assets/example2.png?raw=true)
 
 ## ⚙️ Bestanden en Structuur
 ```bash
